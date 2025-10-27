@@ -37,7 +37,7 @@ I focus on writing clean, maintainable code and creating intuitive digital exper
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/anexe-thomas)
 - 🧑‍💻 [GitHub](https://github.com/anx090)
-- ✉️ ane.x@example.com *(replace with your real email)*  
+- ✉️ anexemt@gmail.com
 
 ---
 
