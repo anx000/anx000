@@ -29,19 +29,14 @@ I focus on writing clean, maintainable code and creating intuitive digital exper
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Ane X's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
+
 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](#)
-- 🧑‍💻 [GitHub](https://github.com/YOUR_USERNAME)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anexe-thomas)
+- 🧑‍💻 [GitHub](https://github.com/anx090)
 - ✉️ ane.x@example.com *(replace with your real email)*  
 
 ---
