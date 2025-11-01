@@ -1,7 +1,7 @@
 ## Hi there 👋
-# 👋 Hi, I'm Ane X
+# 👋 Hi, I'm Anexe Thomas 
 
-💻 **Full-Stack Developer | Django & React Enthusiast**
+💻 Full-Stack Developer | 
 
 I’m passionate about building efficient, secure, and user-friendly web applications.  
 I focus on writing clean, maintainable code and creating intuitive digital experiences.
